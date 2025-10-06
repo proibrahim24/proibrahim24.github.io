@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.proibrahim24.qivren",
+    "sha256_cert_fingerprints": [
+      "86:DF:A1:D5:DF:2A:39:37:35:8C:18:48:1B:A8:3A:52:04:BE:64:58:D7:E2:9F:47:1C:DA:AD:FA:A6:D8:1E:C9"
+    ]
+  }
+}]
